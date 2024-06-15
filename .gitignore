@@ -160,3 +160,7 @@ cython_debug/
 .idea/
 media/
 apps/**/migrations
+
+# nodejs
+node_modules/
+static/CACHE/
