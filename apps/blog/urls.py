@@ -1,7 +1,8 @@
 from django.urls import path
-from apps.blog import views
+from apps.blog.views import post, like, comments, shares
 
 urlpatterns = [
-    path("", views.post_list_view),
-    path("post-generate/", views.auto_post_generate),
+    path("", post.post_list_view),
+    path("post-generate/", post.auto_post_generate),
+    path('aws-products/', post.aws_ecommerce_product)
 ]
