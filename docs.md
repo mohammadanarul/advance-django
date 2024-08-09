@@ -13,9 +13,9 @@
 - [ ] Building Real-time Applications with Django Channels
 - [ ] Working with Third-party api integration
 - [x] Managing Project Dependencies with venv -> ✅
-- [ ] Best Practices and Coding Standards in Django
+- [x] Best Practices and Coding Standards in Django
 - [ ] Error Handling and Logging in Django
-- [ ] Understanding Django Project Structure
+- [x] Understanding Django Project Structure
 - [ ] Django Custom Managers
 - [ ] Django File Storage
 - [ ] push notification
